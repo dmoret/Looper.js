@@ -6,3 +6,18 @@ from a developer’s perspective you are gaining the ability to run a series of 
 
 written with vanilla javascript, this tool can be applied on the front end of a site as well as on the backend using systems such as node.js. further, by having the ability to control your function chain throughout its execution you can help to avoid the usual async concerns such as large sets of nested callbacks and timing issues. 
 
+Copyright (C) 2015  Michael A Sirizzotti
+Looper.js by mikesizz
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
