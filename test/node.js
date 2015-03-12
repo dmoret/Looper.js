@@ -18,9 +18,11 @@
 // these are very basic examples of how to use looper.js. things get quite complex once you get into adding and controlling functions dynamically so tread carefully.
 // uncomment w/e example you want to run
 
-var LOOPER = require('./looper.js');// import looper.js
+var LOOPER = require('../Looper.js');// import looper.js
 var HTTP = require('http'); // for locking example
 var LOOPER_1 = new LOOPER();// our test looper
+
+console.log(LOOPER);
 
 // Example 1 - lets run a few functions, pausing and concentrically calling the function at index 2, which also sleeps one second before printing its message.
 
